@@ -1,4 +1,4 @@
-<footer class="bg-light text-muted mt-3">
+<footer class="text-muted mt-3 fixed-bottom bg-primary">
  <div class="text-center p-4">
  © 2023 Copyright:
  <a href="https://foz.ifpr.edu.br"

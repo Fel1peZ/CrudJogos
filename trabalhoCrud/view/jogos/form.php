@@ -83,7 +83,7 @@ include_once(__DIR__ . "/../include/header.php");
             </div>
 
             <div class="mt-3">
-                <button type="submit" class="btn btn-success">Gravar</button>
+                <button type="submit" class="btn btn-primary">Gravar</button>
             </div>
 
         </form>
@@ -99,8 +99,8 @@ include_once(__DIR__ . "/../include/header.php");
 
 </div>
 
-<div class="mt-2">
-    <a href="listar.php" class="btn-outline-primary">Voltar</a>
+<div class="mt-3">
+    <a href="listar.php" class="btn btn-primary">Voltar</a>
 </div>
 
 
